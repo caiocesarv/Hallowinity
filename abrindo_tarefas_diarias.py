@@ -6,7 +6,7 @@ apps = [
     r"C:\Program Files\Google\Chrome\Application\chrome.exe",
 ]
 
-print("Invocando os programas do além... 🧙‍♂️")
+print("Invocando os programas do além... ")
 for app in apps:
     os.startfile(app)
     time.sleep(2)
